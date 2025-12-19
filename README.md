@@ -1,6 +1,6 @@
-📊 Análisis de mercado en Halterofilia – Lift & Lead
+📊 Análisis de mercado en Halterofilia
 
-Este repositorio contiene el Entregable 3 del Máster en Data Analytics, centrado en el análisis de datos de los Campeonatos Europeos de Halterofilia (2019–2024). El objetivo es validar la hipótesis de que el auge del CrossFit está impulsando el interés por la halterofilia en Europa, apoyando la estrategia de expansión de la startup Lift & Lead.
+Este repositorio está centrado en el análisis de datos de los Campeonatos Europeos de Halterofilia (2019–2024). El objetivo es validar la hipótesis de que el auge del CrossFit está impulsando el interés por la halterofilia en Europa, apoyando la estrategia de expansión de la startup Lift & Lead.
 
 
 
