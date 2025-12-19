@@ -1,0 +1,17 @@
+# Librerías principales para análisis de datos
+pandas
+numpy
+
+# Visualización
+matplotlib
+seaborn
+
+# Web scraping
+requests
+beautifulsoup4
+
+# Entorno de trabajo
+jupyter
+
+scikit-learn
+pip install -r requirements.txt
