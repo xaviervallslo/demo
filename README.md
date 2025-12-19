@@ -30,19 +30,6 @@ Fase 2: Web scraping y análisis ampliado (2019–2024)
 
     Nuevo análisis global y validación de hipótesis.
 
-📑 Entregables
-
-    Notebook Jupyter:
-
-        Código limpio y documentado.
-
-        Transformaciones y análisis completos.
-
-        Gráficos y tablas que respalden los hallazgos.
-
-    Presentación (opcional):
-
-        Resumen visual en PowerPoint con resultados y conclusiones principales.
 
 ⚙️ Tecnologías empleadas
 
